@@ -2,7 +2,7 @@
   <img alt="Vue logo" src="./assets/logo.png" />
   <HelloWorld
     msg="Welcome to VUE, Joseva Handika"
-    creator="me, myself, and i so ill run"
+    creator="me, ayam, myself, and i so ill run"
   />
 </template>
 
